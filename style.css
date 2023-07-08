@@ -1,0 +1,30 @@
+html, body {
+  height: auto;
+  width: auto;
+}
+
+  body {
+      background-image: url("Background.jpg");
+      background-size:cover;
+      background-repeat: no-repeat;
+      color: white;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+        }
+
+    #main {
+      text-align: center;
+    }
+
+    #image {
+      display: block;
+      border: double; 
+      border-color: white;
+      justify-content: center;
+      width: 100%;
+      height: auto;
+      margin: 0;
+    }
+  
+    button{
+    background-color: white;
+     }
